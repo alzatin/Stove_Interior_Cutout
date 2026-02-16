@@ -61,8 +61,8 @@
     },
     {
       "atomType": "Fusion",
-      "x": 0.611111111111111,
-      "y": 0.7388888888888889,
+      "x": 0.6069565217391304,
+      "y": 0.5602409638554217,
       "uniqueID": "id-562",
       "ioValues": [
         {
@@ -431,8 +431,8 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.7910052910052909,
-      "y": 0.6536144578313253,
+      "x": 0.788695652173913,
+      "y": 0.6506024096385542,
       "uniqueID": "id-1040",
       "ioValues": [
         {
@@ -1885,8 +1885,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.5,
-      "y": 0.8583333333333334,
+      "x": 0.5017391304347826,
+      "y": 0.8704819277108433,
       "uniqueID": "id-475",
       "name": "Mounting Holes",
       "topLevel": false,
@@ -2178,6 +2178,10 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
+                },
+                {
+                  "name": "Shape",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -2243,10 +2247,6 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
-                },
-                {
-                  "name": "Shape",
-                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
